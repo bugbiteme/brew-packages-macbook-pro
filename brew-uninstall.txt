@@ -1,0 +1,8 @@
+virtualbox
+obsidian
+microsoft-onenote
+fedora-media-writer
+dropbox
+discord
+box-drive
+audacity
