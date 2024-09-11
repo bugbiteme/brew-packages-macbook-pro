@@ -1,6 +1,8 @@
 # brew-packages-macbook-pro
 List of packages installed on macbook with homebrew
 
+## Install 
+
 On the new Mac, ensure that Homebrew is installed. Then, you can use the following commands to install everything from the lists:
 
 For formula:
